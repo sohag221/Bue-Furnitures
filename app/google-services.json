@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218747528079",
+    "project_id": "buy-furniture-9d4b7",
+    "storage_bucket": "buy-furniture-9d4b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218747528079:android:5644bb7e1b6d98e9ee21fa",
+        "android_client_info": {
+          "package_name": "com.example.buyfurniture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByQYT4ZN3FHP-Ggxjw2Bdfn3-f45DdkZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
