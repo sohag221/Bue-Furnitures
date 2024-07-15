@@ -19,4 +19,5 @@ plugins {
     alias(libs.plugins.kotlin.parcelize) apply false
 
     id ("com.google.dagger.hilt.android") version "2.48.1" apply false
+    alias(libs.plugins.google.gms.google.services) apply false
 }

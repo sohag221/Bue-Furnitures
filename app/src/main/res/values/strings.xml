@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Buy Furniture</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rightAddress">The Right Address \n For Shopping \n Any day</string>
+    <string name="quality">Out products are qualityful \n Everyone can perches our Products \n without any doubt. </string>
 </resources>
